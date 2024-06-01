@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GNQ
 - Equatorial Guinea
 - Guinea Ecuatorial
 - Guinée équatoriale
