@@ -40,11 +40,18 @@ markerFolder: ./Kié-Ntem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem|Kié-Ntem]] 
-- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.public|Kié-Ntem.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.internal|Kié-Ntem.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.protect|Kié-Ntem.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.private|Kié-Ntem.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.personal|Kié-Ntem.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Kié-Ntem.secret|Kié-Ntem.secret]] 
+
+### #is_/same_as :: [Kié-Ntem](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.md) 
+
+### #is_/same_as :: [Kié-Ntem.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.public.md) 
+
+### #is_/same_as :: [Kié-Ntem.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.internal.md) 
+
+### #is_/same_as :: [Kié-Ntem.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.protect.md) 
+
+### #is_/same_as :: [Kié-Ntem.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.private.md) 
+
+### #is_/same_as :: [Kié-Ntem.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.personal.md) 
+
+### #is_/same_as :: [Kié-Ntem.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.secret.md)
 

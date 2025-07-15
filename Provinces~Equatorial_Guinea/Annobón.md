@@ -40,11 +40,18 @@ markerFolder: ./Annobón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón|Annobón]] 
-- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.public|Annobón.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.internal|Annobón.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.protect|Annobón.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.private|Annobón.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.personal|Annobón.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Annobón.secret|Annobón.secret]] 
+
+### #is_/same_as :: [Annobón](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.md) 
+
+### #is_/same_as :: [Annobón.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.public.md) 
+
+### #is_/same_as :: [Annobón.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.internal.md) 
+
+### #is_/same_as :: [Annobón.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.protect.md) 
+
+### #is_/same_as :: [Annobón.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.private.md) 
+
+### #is_/same_as :: [Annobón.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.personal.md) 
+
+### #is_/same_as :: [Annobón.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Annobón.secret.md)
 

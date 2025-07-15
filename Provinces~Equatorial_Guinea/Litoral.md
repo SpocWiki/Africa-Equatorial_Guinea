@@ -40,11 +40,18 @@ markerFolder: ./Litoral/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral|Litoral]] 
-- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.public|Litoral.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.internal|Litoral.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.protect|Litoral.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.private|Litoral.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.personal|Litoral.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Litoral.secret|Litoral.secret]] 
+
+### #is_/same_as :: [Litoral](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.md) 
+
+### #is_/same_as :: [Litoral.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.public.md) 
+
+### #is_/same_as :: [Litoral.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.internal.md) 
+
+### #is_/same_as :: [Litoral.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.protect.md) 
+
+### #is_/same_as :: [Litoral.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.private.md) 
+
+### #is_/same_as :: [Litoral.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.personal.md) 
+
+### #is_/same_as :: [Litoral.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.secret.md)
 

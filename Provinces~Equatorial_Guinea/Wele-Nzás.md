@@ -40,11 +40,18 @@ markerFolder: ./Wele-Nzás/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás|Wele-Nzás]] 
-- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.public|Wele-Nzás.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.internal|Wele-Nzás.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.protect|Wele-Nzás.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.private|Wele-Nzás.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.personal|Wele-Nzás.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Wele-Nzás.secret|Wele-Nzás.secret]] 
+
+### #is_/same_as :: [Wele-Nzás](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.md) 
+
+### #is_/same_as :: [Wele-Nzás.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.public.md) 
+
+### #is_/same_as :: [Wele-Nzás.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.internal.md) 
+
+### #is_/same_as :: [Wele-Nzás.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.protect.md) 
+
+### #is_/same_as :: [Wele-Nzás.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.private.md) 
+
+### #is_/same_as :: [Wele-Nzás.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.personal.md) 
+
+### #is_/same_as :: [Wele-Nzás.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Wele-Nzás.secret.md)
 

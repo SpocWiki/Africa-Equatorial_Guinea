@@ -131,10 +131,4 @@ Capital :: [[Malabo]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Equatorial_Guinea|Equatorial_Guinea]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]] 
+

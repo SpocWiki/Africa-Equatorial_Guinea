@@ -40,11 +40,18 @@ markerFolder: ./Bioko_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte|Bioko_Norte]] 
-- [[../../../../../../_public/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.public|Bioko_Norte.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.internal|Bioko_Norte.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.protect|Bioko_Norte.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.private|Bioko_Norte.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.personal|Bioko_Norte.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Equatorial_Guinea/Counties/Bioko_Norte.secret|Bioko_Norte.secret]] 
+
+### #is_/same_as :: [Bioko_Norte](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.md) 
+
+### #is_/same_as :: [Bioko_Norte.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.public.md) 
+
+### #is_/same_as :: [Bioko_Norte.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.internal.md) 
+
+### #is_/same_as :: [Bioko_Norte.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.protect.md) 
+
+### #is_/same_as :: [Bioko_Norte.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.private.md) 
+
+### #is_/same_as :: [Bioko_Norte.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.personal.md) 
+
+### #is_/same_as :: [Bioko_Norte.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Norte.secret.md)
 
