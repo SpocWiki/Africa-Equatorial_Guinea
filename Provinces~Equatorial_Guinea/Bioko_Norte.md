@@ -1,30 +1,29 @@
 ---
-location: [ 3.6 , 8.8 ] 
+location:
+  - 3.6
+  - 8.8
 type: geo-Region
 title: Bioko_Norte
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Bioko_Norte
-
+  - Bioko_Norte
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Bioko_Norte

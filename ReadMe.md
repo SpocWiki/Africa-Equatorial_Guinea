@@ -1,37 +1,38 @@
 ---
 location:
-- 3.75
-- 8.78333
+  - 3.75
+  - 8.78333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26909
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Equatorial Guinea
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Equatorial Guinea
-- Guinea Ecuatorial
-- Guinée équatoriale
-- غينيا الاستوائية
-- 赤道几内亚
-- Экваториальная Гвинея
-- the Republic of Equatorial Guinea
-- la República de Guinea Ecuatorial
+  - Equatorial Guinea
+  - Guinea Ecuatorial
+  - Guinée équatoriale
+  - غينيا الاستوائية
+  - 赤道几内亚
+  - Экваториальная Гвинея
+  - the Republic of Equatorial Guinea
+  - la República de Guinea Ecuatorial
 Languages:
-- es-GQ
-- fr
+  - es-GQ
+  - fr
 ---
 
 
