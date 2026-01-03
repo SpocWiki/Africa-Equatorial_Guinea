@@ -40,17 +40,17 @@ markerFolder: ./Kié-Ntem/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kié-Ntem](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem|Kié-Ntem]] 
 
-### #is_/same_as :: [Kié-Ntem.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.public|Kié-Ntem.public]] 
 
-### #is_/same_as :: [Kié-Ntem.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.internal|Kié-Ntem.internal]] 
 
-### #is_/same_as :: [Kié-Ntem.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.protect|Kié-Ntem.protect]] 
 
-### #is_/same_as :: [Kié-Ntem.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.private|Kié-Ntem.private]] 
 
-### #is_/same_as :: [Kié-Ntem.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.personal|Kié-Ntem.personal]] 
 
-### #is_/same_as :: [Kié-Ntem.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Kié-Ntem.secret|Kié-Ntem.secret]] 
 

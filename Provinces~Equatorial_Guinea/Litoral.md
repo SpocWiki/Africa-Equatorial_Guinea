@@ -40,17 +40,17 @@ markerFolder: ./Litoral/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Litoral](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral|Litoral]] 
 
-### #is_/same_as :: [Litoral.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.public|Litoral.public]] 
 
-### #is_/same_as :: [Litoral.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.internal|Litoral.internal]] 
 
-### #is_/same_as :: [Litoral.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.protect|Litoral.protect]] 
 
-### #is_/same_as :: [Litoral.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.private|Litoral.private]] 
 
-### #is_/same_as :: [Litoral.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.personal|Litoral.personal]] 
 
-### #is_/same_as :: [Litoral.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Litoral.secret|Litoral.secret]] 
 

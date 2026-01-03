@@ -40,17 +40,17 @@ markerFolder: ./Bioko_Sur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bioko_Sur](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur|Bioko_Sur]] 
 
-### #is_/same_as :: [Bioko_Sur.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.public|Bioko_Sur.public]] 
 
-### #is_/same_as :: [Bioko_Sur.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.internal|Bioko_Sur.internal]] 
 
-### #is_/same_as :: [Bioko_Sur.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.protect|Bioko_Sur.protect]] 
 
-### #is_/same_as :: [Bioko_Sur.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.private|Bioko_Sur.private]] 
 
-### #is_/same_as :: [Bioko_Sur.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.personal|Bioko_Sur.personal]] 
 
-### #is_/same_as :: [Bioko_Sur.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Bioko_Sur.secret|Bioko_Sur.secret]] 
 

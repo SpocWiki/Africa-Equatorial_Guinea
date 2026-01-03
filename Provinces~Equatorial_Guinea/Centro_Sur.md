@@ -40,17 +40,17 @@ markerFolder: ./Centro_Sur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centro_Sur](/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur|Centro_Sur]] 
 
-### #is_/same_as :: [Centro_Sur.public](/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.public|Centro_Sur.public]] 
 
-### #is_/same_as :: [Centro_Sur.internal](/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.internal|Centro_Sur.internal]] 
 
-### #is_/same_as :: [Centro_Sur.protect](/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.protect|Centro_Sur.protect]] 
 
-### #is_/same_as :: [Centro_Sur.private](/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.private|Centro_Sur.private]] 
 
-### #is_/same_as :: [Centro_Sur.personal](/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.personal|Centro_Sur.personal]] 
 
-### #is_/same_as :: [Centro_Sur.secret](/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea/Provinces~Equatorial_Guinea/Centro_Sur.secret|Centro_Sur.secret]] 
 
