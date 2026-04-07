@@ -22,31 +22,31 @@ demonym:
   - Malabéen
   - Malabéenne
 capital_of:
-  - "[[_Standards/WikiData/WD~Bioko_Norte,845834]]"
-  - "[[_Standards/WikiData/WD~Spanish_Guinea,1232509]]"
-  - "[[_Standards/WikiData/WD~District_of_Malabo,3031443]]"
-  - "[[_Standards/WikiData/WD~Insular_Region,3040071]]"
-  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
-owner_of: "[[_Standards/WikiData/WD~Malabo_Stadium,1510743]]"
+  - "[[_Standards/WikiData/WD~Bioko_Norte,845834|WD~Bioko_Norte,845834]]"
+  - "[[_Standards/WikiData/WD~Spanish_Guinea,1232509|WD~Spanish_Guinea,1232509]]"
+  - "[[_Standards/WikiData/WD~District_of_Malabo,3031443|WD~District_of_Malabo,3031443]]"
+  - "[[_Standards/WikiData/WD~Insular_Region,3040071|WD~Insular_Region,3040071]]"
+  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
+owner_of: "[[_Standards/WikiData/WD~Malabo_Stadium,1510743|WD~Malabo_Stadium,1510743]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~port_city,2264924]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~District_of_Malabo,3031443]]"
-named_after: "[[_Standards/WikiData/WD~Malabo_Löpèlo_Mëlaka,6740779]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q15989555,15989555]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32651697,32651697]]"
-country: "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~port_city,2264924|WD~port_city,2264924]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~District_of_Malabo,3031443|WD~District_of_Malabo,3031443]]"
+named_after: "[[_Standards/WikiData/WD~Malabo_Löpèlo_Mëlaka,6740779|WD~Malabo_Löpèlo_Mëlaka,6740779]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q15989555,15989555|WD~Q15989555,15989555]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32651697,32651697|WD~Q32651697,32651697]]"
+country: "[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Bube,35110]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Bube,35110|WD~Bube,35110]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Guadalajara,9022]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+  - "[[_Standards/WikiData/WD~Madrid,2807|WD~Madrid,2807]]"
+  - "[[_Standards/WikiData/WD~Guadalajara,9022|WD~Guadalajara,9022]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]"
 elevation_above_sea_level: 0
 area: 21
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430|WD~Gulf_of_Guinea,41430]]"
 population: 297000
 Commons_category: Malabo
 WOEID: "1480564"
