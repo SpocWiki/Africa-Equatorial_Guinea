@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Wele-Nzás/
 markerFolder: ./Wele-Nzás/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

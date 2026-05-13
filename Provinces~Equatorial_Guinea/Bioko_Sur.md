@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bioko_Sur/
 markerFolder: ./Bioko_Sur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

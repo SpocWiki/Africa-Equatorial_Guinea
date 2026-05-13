@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kié-Ntem/
 markerFolder: ./Kié-Ntem/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
